@@ -1,0 +1,18 @@
+*
+{
+  box-sizing: border-box;
+}
+
+body
+{
+  background-color: hsl(41, 100%, 70%);
+}
+
+h1
+{
+  font: 700 8vw/1.4 'Times New Roman', serif;
+  padding: 1em;
+  color: hsl(39, 88%, 61%);
+  text-shadow: 0 3px 3px hsl(53, 92%, 85%, 0.6);
+}
+
